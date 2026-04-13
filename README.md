@@ -32,6 +32,5 @@
 - LinkedIn: https://www.linkedin.com/in/anish-bag-260b771a2
 
 ---
-
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Anishbag&show_icons=true&theme=tokyonight)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
