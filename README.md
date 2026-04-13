@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anish Bag</h1>
+<h3 align="center">Aspiring Backend Developer | Django | Python</h3>
 
-<!--
-**Anishbag/anishbag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🎓 Final Year Student (NSHM)
+- 💻 I love building APIs using Django & DRF
+- 🔐 Worked on OTP Email Authentication System
+- 🌱 Currently learning Advanced Backend & Deployment
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+- Python 🐍
+- Django / DRF / API
+- MySQL
+- HTML, CSS, React, Bootstrap 0.5
+- Git & GitHub
+
+---
+
+### 📌 Projects
+- 🍔 Food Ordering System (Django + React)
+- 🔐 OTP Login System
+
+
+---
+
+### 📫 Contact Me
+- Email: anishbag18@gmail.com
+- LinkedIn: https://www.linkedin.com/in/anish-bag-260b771a2
+
+---
+
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Anishbag&show_icons=true&theme=tokyonight)
