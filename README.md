@@ -1,27 +1,20 @@
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0D0D,50:00F7FF,100:6C63FF&height=200&section=header&text=ANISH%20BAG&fontSize=80&fontColor=FFFFFF&fontAlignY=55&desc=Backend%20Engineer%20%7C%20Python%20%7C%20Django%20%7C%20DRF&descAlignY=75&descSize=18&animation=twinkling&stroke=00F7FF&strokeWidth=2"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anish%20Bag&fontSize=72&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Django%20%7C%20DRF%20%7C%20Backend%20Developer&descAlignY=60&descSize=16&descColor=fff"/>
 
-</div>
-
-<div align="center">
-
-<!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&lines=🚀+Building+Scalable+APIs+from+scratch;⚙️+Django+%2B+DRF+%2B+REST+Architecture;🔐+Auth+Systems+%7C+OTP+%7C+JWT;🌍+Final+Year+CS+Student+%40+NSHM;💼+Targeting+Backend+Engineer+%40+MNC" alt="Typing SVG" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00C8FF&center=true&vCenter=true&width=650&lines=🚀+Building+Scalable+APIs;⚙️+Django+%2B+DRF+%2B+REST+Architecture;🔐+OTP+%7C+JWT+Auth+Systems;🌍+Final+Year+CS+Student+%40+NSHM;💼+Targeting+Backend+Engineer+%40+MNC" />
 
 <br/>
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=anishbag&label=👁️+PROFILE+VIEWS&color=00F7FF&style=for-the-badge&labelColor=0D0D0D"/>
-<img src="https://img.shields.io/github/followers/anishbag?label=Followers&style=for-the-badge&color=6C63FF&labelColor=0D0D0D&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=anishbag&label=Profile+Views&color=0e75b6&style=flat"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/anishbag?label=Followers&style=social"/>
+
 </div>
 
 ---
 
-## `who am i`
+## 👨‍💻 About Me
 
 ```python
 class AnishBag:
@@ -33,17 +26,17 @@ class AnishBag:
     email       = "anishbag18@gmail.com"
     portfolio   = "https://anishbagportfolio.web.app"
 
-    tech_stack  = {
+    tech_stack = {
         "languages"  : ["Python 🐍"],
         "frameworks" : ["Django ⚙️", "Django REST Framework 🚀"],
         "frontend"   : ["React ⚛️", "HTML5", "CSS3", "Bootstrap"],
         "databases"  : ["MySQL", "SQLite"],
-        "tools"      : ["Docker 🐳", "Git", "GitHub", "Postman"],
+        "tools"      : ["Firebase", "Git", "GitHub", "Postman"],
     }
 
     currently_learning = ["System Design 🧠", "Cloud Deployment ☁️", "Microservices"]
     goal               = "Backend Engineer @ Top MNC 💼"
-    fun_fact           = "I debug at 2AM and consider it 'flow state' 🌙"
+    fun_fact           = "I debug at 2AM and call it 'flow state' 🌙"
 
     def say_hello(self):
         return "Let's build something that scales. 🚀"
@@ -51,18 +44,32 @@ class AnishBag:
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Core
-<img src="https://skillicons.dev/icons?i=python,django,&perline=6" />
+**Languages & Frameworks**
 
-### Full Stack
-<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,js&perline=6" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-### Data & DevOps
-<img src="https://skillicons.dev/icons?i=mysql,git,github,postman,linux&perline=6" />
+<br/><br/>
+
+**Database & DevOps**
+
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<br/><br/>
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
 </div>
 
@@ -70,73 +77,103 @@ class AnishBag:
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-| Project | Stack | Highlights | Link |
-|--------|-------|-----------|------|
-| 🍔 **Food Ordering System** | Django · React · DRF · MySQL | OTP Auth · Cart · Orders · REST APIs | [→ View Repo](https://github.com/anishbag/food-ordering) |
-| 🔐 **OTP Auth System** | Django · SMTP · JWT | Secure Email OTP · Session Mgmt | [→ View Repo](https://github.com/anishbag/otp-system) |
-
-</div>
-
-### 🍔 Food Ordering System — Deep Dive
+### 🍔 Food Ordering System
+> **Full-stack food delivery platform with secure authentication and real-time cart management**
 
 ```
 📦 food-ordering-system/
-├── 🔐 auth/          → OTP-based email authentication
-├── 🛒 cart/          → Add, update, remove items
-├── 📦 orders/        → Order placement & tracking
-├── 🍽️ menu/          → Restaurant & food listing APIs
-├── ⚛️  frontend/      → React UI with live cart
-
+├── 🔐 auth/       → OTP-based email authentication (Django + SMTP)
+├── 🛒 cart/       → Add, update, remove items
+├── 📦 orders/     → Order placement & status tracking
+├── 🍽️  menu/       → Restaurant & food listing APIs
+└── ⚛️  frontend/   → React UI with live cart updates
 ```
 
-> **Stack:** Django · DRF · React · MySQL · SMTP · JWT · Docker  
-> **Goal:** Production-grade food delivery backend with secure auth and scalable API design.
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/DRF-ff1709?style=flat-square&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+
+
+🔗 [View Repository](https://github.com/anishbag/food-ordering)
+
+---
+
+### 🔐 OTP Authentication System
+> **Secure email-based OTP login system with session management**
+
+```
+📦 otp-auth-system/
+├── 📧 email/      → Django SMTP integration
+├── 🔑 otp/        → OTP generation & validation
+└── 🔒 session/    → Secure session & JWT management
+```
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![SMTP](https://img.shields.io/badge/SMTP-EA4335?style=flat-square&logo=gmail&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+
+🔗 [View Repository](https://github.com/anishbag/otp-system)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=anishbag&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+&nbsp;&nbsp;
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishbag&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=anishbag&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anishbag&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
 
 ---
 
 ## 🎯 2025 Roadmap
 
-```
-Q1 ✅  OTP Auth System
-Q2 ✅  Food Ordering Full Stack App
-Q3 🔄  System Design Study + Docker Mastery
-Q4 🎯  Land Backend Engineer Role @ MNC
-```
+| Quarter | Goal | Status |
+|---------|------|--------|
+| Q1 | OTP Authentication System | ✅ Done |
+| Q2 | Food Ordering Full Stack App | ✅ Done |
+| Q3 | System Design + Docker Mastery | 🔄 In Progress |
+| Q4 | Backend Engineer Role @ MNC | 🎯 Target |
 
 ---
 
-## 📬 Let's Connect
+
+## 📬 Connect With Me
 
 <div align="center">
 
 <a href="mailto:anishbag18@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-anishbag18%40gmail.com-00F7FF?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0D0D0D"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
-<br/><br/>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/anish-bag-260b771a2">
-  <img src="https://img.shields.io/badge/LinkedIn-Anish%20Bag-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<br/><br/>
-
+&nbsp;
 <a href="https://anishbagportfolio.web.app/">
-  <img src="https://img.shields.io/badge/Portfolio-anishbagportfolio.web.app-FFFFFF?style=for-the-badge&logo=firefox&logoColor=00F7FF&labelColor=0D0D0D"/>
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
 </a>
 
 </div>
-
-<br/>
 
 ---
 
 <div align="center">
 
-*"First, solve the problem. Then, write the code."* — John Johnson
+*"First, solve the problem. Then, write the code."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00F7FF&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
