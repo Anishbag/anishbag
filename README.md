@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <!-- ANIMATED HEADER -->
@@ -22,7 +21,7 @@
 
 ---
 
-## `whoami`
+## `who am i`
 
 ```python
 class AnishBag:
@@ -63,7 +62,7 @@ class AnishBag:
 <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,js&perline=6" />
 
 ### Data & DevOps
-<img src="https://skillicons.dev/icons?i=mysql,docker,git,github,postman,linux&perline=6" />
+<img src="https://skillicons.dev/icons?i=mysql,git,github,postman,linux&perline=6" />
 
 </div>
 
@@ -89,53 +88,11 @@ class AnishBag:
 ├── 📦 orders/        → Order placement & tracking
 ├── 🍽️ menu/          → Restaurant & food listing APIs
 ├── ⚛️  frontend/      → React UI with live cart
-└── 🐳 docker/        → Containerized deployment
+
 ```
 
 > **Stack:** Django · DRF · React · MySQL · SMTP · JWT · Docker  
 > **Goal:** Production-grade food delivery backend with secure auth and scalable API design.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anishbag&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D0D0D&title_color=00F7FF&icon_color=6C63FF&text_color=FFFFFF"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishbag&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0D0D&title_color=00F7FF&text_color=FFFFFF"/>
-
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=anishbag&theme=tokyonight&hide_border=true&background=0D0D0D&stroke=00F7FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=00F7FF"/>
-</div>
-
-<br/>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anishbag&theme=tokyo-night&hide_border=true&bg_color=0D0D0D&color=00F7FF&line=6C63FF&point=FFFFFF"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anishbag/anishbag/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anishbag/anishbag/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/anishbag/anishbag/output/github-contribution-grid-snake.svg" />
-</picture>
-</div>
-
----
-
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=anishbag&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
-</div>
 
 ---
 
