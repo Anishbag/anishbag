@@ -31,7 +31,7 @@ class AnishBag:
     }
 
     currently_learning = ["System Design 🧠", "Cloud Deployment ☁️", "Microservices"]
-    goal               = "Backend Engineer @ Top MNC 💼"
+    goal               = "Backend Engineer @ Responsible & Good Engineer 💼"
     fun_fact           = "I debug at 2AM and call it 'flow state' 🌙"
 
     def say_hello(self):
