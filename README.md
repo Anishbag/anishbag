@@ -71,7 +71,7 @@ class AnishBag:
 
 ---
 
-## 🏙️ GitHub Contribution City
+## 🏙️ GitHub Contribution 
 
 <p align="center">
   <img 
