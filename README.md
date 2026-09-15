@@ -71,29 +71,15 @@ class AnishBag:
 
 ---
 
-## 🐍 My GitHub Contribution Snake
+## 🏙️ GitHub Contribution City
 
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/anishbag/anishbag/gh-pages/github-contribution-grid-snake-dark.svg"
+<p align="center">
+  <img 
+    src="./profile-3d-contrib/profile-green-animate.svg"
+    width="100%"
+    alt="GitHub 3D Contribution City"
   />
-
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/anishbag/anishbag/gh-pages/github-contribution-grid-snake.svg"
-  />
-
-  <img
-    alt="GitHub Contribution Snake"
-    src="https://raw.githubusercontent.com/anishbag/anishbag/gh-pages/github-contribution-grid-snake.svg"
-  />
-
-</picture>
-
-</div>
+</p>
 
 ---
 
